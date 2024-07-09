@@ -1,0 +1,114 @@
+Fauna,Alien Eggs,Advanced Theories,Egg,Pick up an Alien Egg
+Fauna,The Sea Emperor's Eggs,Advanced Theories,Egg,Scan Sea Emperor Egg in Primary Containment Facility
+Fauna,Brain Coral,Indigenous Lifeforms,Coral,Scan Brain Coral
+Fauna,Coral Shell Plate,Indigenous Lifeforms,Coral,Scan Coral Shell Plate
+Fauna,Earthen Coral Tubes,Indigenous Lifeforms,Coral,Scan Earthen Coral Tubes
+Fauna,Giant Coral Tubes,Indigenous Lifeforms,Coral,Scan Giant Coral Tube
+Fauna,Pyrocoral,Indigenous,Lifeforms,Coral,Scan Pyrocoral
+Fauna,Table Coral,Indigenous Lifeforms,Coral,Scan Table Coral
+Fauna,Tree Mushrooms,Indigenous Lifeforms,Coral,Scan Tree Mushroom
+Fauna,Ampeel,Indigenous Lifeforms,Carnivores,Scan Ampeel
+Fauna,Biter,Indigenous Lifeforms,Carnivores,Scan Biter
+Fauna,Blighter,Indigenous Lifeforms,Carnivores,Scan Blighter
+Fauna,Boneshark,Indigenous Lifeforms,Carnivores,Scan Boneshark
+Fauna,Crabsnake,Indigenous Lifeforms,Carnivores,Scan Crabsnake
+Fauna,Crabsquid,Indigenous Lifeforms,Carnivores,Scan Crabsquid
+Fauna,Crashfish,Indigenous Lifeforms,Carnivores,Scan Crashfish
+Fauna,Lava Lizard,Indigenous Lifeforms,Carnivores,Scan Lava Lizard
+Fauna,Mesmer,Indigenous Lifeforms,Carnivores,Scan Mesmer
+Fauna,River Prowler,Indigenous Lifeforms,Carnivores,Scan River Prowler
+Fauna,Sand Shark,Indigenous Lifeforms,Carnivores,Scan Sand Shark
+Fauna,Stalker,Indigenous Lifeforms,Carnivores,Scan Stalker
+Fauna,Stalker Teeth,Indigenous Lifeforms,Carnivores,Scan Stalker Teeth
+Fauna,Warper,Indigenous Lifeforms,Carnivores,Scan Warper
+Fauna,Ancient Fossilized Skeleton,Indigenous Lifeforms,Deceased,Scan Ancient Fossilized Skeleton near Lost River Laboratory Cache
+Fauna,Gargantuan Fossil,Indigenous Lifeforms,Deceased,Scan Skeletal Remains in the Lost River
+Fauna,Mixed Leviathan Fossils,Indigenous Lifeforms,Deceased,Scan Alien Bone Specimen Case in Lost River Laboratory Cache
+Fauna,Reaper Leviathan Skeleton,Indigenous Lifeforms,Deceased,Scan Reaper Leviathan Skeletal Remains in Inactive Lava Zone or Lost River Mountains Corridor
+Fauna,Remains of Research Specimen,Indigenous Lifeforms,Deceased,Scan Skeletal Remains in Disease Research Facility Aquarium
+Fauna,Rib Cage Samples,Indigenous Lifeforms,Deceased,Scan Rib Cage in Disease Research Facility
+Fauna,Sea Dragon Skeleton,Indigenous Lifeforms,Deceased,Scan Sea Dragon Leviathan Skeletal Remains in the Lost River Junction
+Fauna,Crimson Ray,Indigenous Lifeforms,Herbivores - Large,Scan Crimson Ray
+Fauna,Cuddlefish,Indigenous Lifeforms,Herbivores - Large,Scan Cuddlefish
+Fauna,Gasopod,Indigenous Lifeforms,Herbivores - Large,Scan Gasopod
+Fauna,Ghostray,Indigenous Lifeforms,Herbivores - Large,Scan Ghostray
+Fauna,Jellyray,Indigenous Lifeforms,Herbivores - Large,Scan Jellyray
+Fauna,Rabbit Ray,Indigenous Lifeforms,Herbivores - Large,Scan Rabbit Ray
+Fauna,Skyray,Indigenous Lifeforms,Herbivores - Large,Scan Skyray
+Fauna,Bladderfish,Indigenous Lifeforms,Herbivores - Small,Scan Bladderfish
+Fauna,Boomerang,Indigenous Lifeforms,Herbivores - Small,Scan Boomerang
+Fauna,Eyeye,Indigenous Lifeforms,Herbivores - Small,Scan Eyeye
+Fauna,Garryfish,Indigenous Lifeforms,Herbivores - Small,Scan Garryfish
+Fauna,Holefish,Indigenous Lifeforms,Herbivores - Small,Scan Holefish
+Fauna,Hoopfish,Indigenous Lifeforms,Herbivores - Small,Scan Hoopfish
+Fauna,Hoverfish,Indigenous Lifeforms,Herbivores - Small,Scan Hoverfish
+Fauna,Magmarang,Indigenous Lifeforms,Herbivores - Small,Scan Magmarang
+Fauna,Oculus,Indigenous Lifeforms,Herbivores - Small,Scan Oculus
+Fauna,Peeper,Indigenous Lifeforms,Herbivores - Small,Scan Peeper
+Fauna,Red Eyeye,Indigenous Lifeforms,Herbivores - Small,Scan Red Eyeye
+Fauna,Reginald,Indigenous Lifeforms,Herbivores - Small,Scan Reginald
+Fauna,Spadefish,Indigenous Lifeforms,Herbivores - Small,Scan Spadefish
+Fauna,Spinefish,Indigenous Lifeforms,Herbivores - Small,Scan Spinefish
+Fauna,Ghost Leviathan,Indigenous Lifeforms,Leviathans,Scan Ghost Leviathan
+Fauna,Ghost Leviathan Juvenile,Indigenous Lifeforms,Leviathans,Scan Ghost Leviathan Juvenile
+Fauna,Reaper Leviathan,Indigenous Lifeforms,Leviathans,Scan Reaper Leviathan
+Fauna,Reefback Leviathan,Indigenous Lifeforms,Leviathans,Scan Reefback Leviathan
+Fauna,Sea Dragon Leviathan,Indigenous Lifeforms,Leviathans,Scan Sea Dragon Leviathan
+Fauna,Sea Emperor Juvenile,Indigenous Lifeforms,Leviathans,Scan Sea Emperor Juvenile
+Fauna,Sea Treader Leviathan,Indigenous Lifeforms,Leviathans,Scan Sea Treader Leviathan
+Fauna,Amoeboid,Indigenous Lifeforms,Scavengers & Parasites,Scan Amoeboid
+Fauna,Ancient Floater,Indigenous Lifeforms,Scavengers & Parasites,Scan Ancient Floater
+Fauna,Bleeder,Indigenous Lifeforms,Scavengers & Parasites,Scan Bleeder
+Fauna,Blood Crawler,Indigenous Lifeforms,Scavengers & Parasites,Scan Blood Crawler
+Fauna,Cave Crawler,Indigenous Lifeforms,Scavengers & Parasites,Scan Cave Crawler
+Fauna,Floater,Indigenous Lifeforms,Scavengers & Parasites,Scan Floater
+Fauna,Lava Larva,Indigenous Lifeforms,Scavengers & Parasites,Scan Lava Larva
+Fauna,Rockgrub,Indigenous Lifeforms,Scavengers & Parasites,Scan Rockgrub
+Fauna,Shuttlebug,Indigenous Lifeforms,Scavengers & Parasites,Scan Shuttlebug
+Flora,Acid Mushroom,Indigenous Lifeforms,Exploitable,Scan Acid Mushroom
+Flora,Bloodroot,Indigenous Lifeforms,Exploitable,Scan Bloodroot
+Flora,Bloodvine,Indigenous Lifeforms,Exploitable,Scan Bloodvine
+Flora,Bulbo Tree,Indigenous Lifeforms,Exploitable,Scan Bulbo Tree
+Flora,Chinese Potato Plant,Indigenous Lifeforms,Exploitable,Scan Chinese Potato Plant
+Flora,Creepvine,Indigenous Lifeforms,Exploitable,Scan Creepvine
+Flora,Creepvine Seeds,Indigenous Lifeforms,Exploitable,Scan Creepvine Seed Cluster
+Flora,Deep Shroom,Indigenous Lifeforms,Exploitable,Scan Deep Shroom
+Flora,Gel Sack,Indigenous Lifeforms,Exploitable,Scan Gel Sack
+Flora,Lantern Tree,Indigenous Lifeforms,Exploitable,Scan Lantern Tree
+Flora,Marblemelon Plant,Indigenous Lifeforms,Exploitable,Scan Marblemelon Planr
+Flora,Sulfur Plant,Indigenous Lifeforms,Exploitable,Scan Sulfur Plant
+Flora,Fern Palm,Indigenous Lifeforms,Land,Scan Fern Palm
+Flora,Grub Basket,Indigenous Lifeforms,Land,Scan Grub Bucket
+Flora,Jaffa Cup,Indigenous Lifeforms,Land,Scan Jaffa Cup
+Flora,Ming Plant,Indigenous Lifeforms,Land,Scan Ming Plant
+Flora,Pink Cap,Indigenous Lifeforms,Land,Scan Pink Cap
+Flora,Speckled Rattler,Indigenous Lifeforms,Land,Scan Speckled Rattler
+Flora,Voxel Shrub,Indigenous Lifeforms,Land,Scan Voxel Shrub
+Flora,Anchor Pods,Indigenous Lifeforms,Sea,Scan Anchor Pods
+Flora,Blood Grass,Indigenous Lifeforms,Sea,Scan Blood Grass
+Flora,Blue Palm,Indigenous Lifeforms,Sea,Scan Blue Palm
+Flora,Brine Lily,Indigenous Lifeforms,Sea,Scan Brine Lily
+Flora,Bulb Bush,Indigenous Lifeforms,Sea,Scan Bulb Bush
+Flora,Cave Bush,Indigenous Lifeforms,Sea,Scan Cave Bush
+Flora,Crab Claw Kelp,Indigenous Lifeforms,Sea,Scan Crab Claw Kelp
+Flora,Drooping Stinger,Indigenous Lifeforms,Sea,Scan Drooping Stinger
+Flora,Eye Stalk,Indigenous Lifeforms,Sea,Scan Eye Stalk
+Flora,Furled Papyrus,Indigenous Lifeforms,Sea,Scan Furled Papyrus
+Flora,Gabe's Feather,Indigenous Lifeforms,Sea,Scan Gabe's Feather
+Flora,Ghost Weed,Indigenous Lifeforms,Sea,Scan Ghost Weed
+Flora,Giant Bulb Bush,Indigenous Lifeforms,Sea,Scan Giant Bulb Bush
+Flora,Giant Cove Tree,Indigenous Lifeforms,Sea,Scan Giant Cove Tree
+Flora,Jellyshroom,Indigenous Lifeforms,Sea,Scan Jellyshroom
+Flora,Membrain Tree,Indigenous Lifeforms,Sea,Scan Membrain Tree
+Flora,Pygmy Fan,Indigenous Lifeforms,Sea,Scan Pygmy Fan
+Flora,Redwort,Indigenous Lifeforms,Sea,Scan Redwort
+Flora,Regress Shell,Indigenous Lifeforms,Sea,Scan Regress Shell
+Flora,Rouge Cradle,Indigenous Lifeforms,Sea,Scan Rouge Cradle
+Flora,Sea Crown,Indigenous Lifeforms,Sea,Scan Sea Crown
+Flora,Spiked Horn Grass,Indigenous Lifeforms,Sea,Scan Spiked Horn Grass
+Flora,Spotted Dockleaf,Indigenous Lifeforms,Sea,Scan Spotted Dockleaf
+Flora,Tiger Plant,Indigenous Lifeforms,Sea,Scan Tiger Plant
+Flora,Tree Leech,Indigenous Lifeforms,Sea,Scan Tree Leech
+Flora,Veined Nettle,Indigenous Lifeforms,Sea,Scan Veined Nettle
+Flora,Violet Beau,Indigenous Lifeforms,Sea,Scan Violet Beau
+Flora,Writhing Weed,Indigenous Lifeforms,Sea,Scan Writhing Weed
